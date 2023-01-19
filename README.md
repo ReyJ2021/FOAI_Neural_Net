@@ -2,6 +2,7 @@
 Training a Neural net using PyTorch Library<br />
 demo- code-1-Ram<br />
 Explanation of the code: <br />
+The final code is in the Py_torch.py file
 
 First, we use torch.linspace to generate an array of X between 0 to 4 with a resolution of 0.01. <br />
 Then use the provided equation to calculate the corresponding Y values.<br />
